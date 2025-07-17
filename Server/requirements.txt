@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+requests
+beautifulsoup4
+playwright
+pymongo
+apscheduler
+python-dotenv
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+alpha-vantage==2.3.1
+email-validator
+feedparser
+google-generativeai

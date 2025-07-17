@@ -1,0 +1,23 @@
+*venv/
+__pycache__/
+.env
+*.pyc
+errorLogs/
+
+# IDE/Editor directories
+.idea/
+.vscode/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Test artifacts
+.pytest_cache/
+htmlcov/
+.coverage
+
+# OS-specific files
+.DS_Store
+Thumbs.db
